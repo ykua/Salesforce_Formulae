@@ -14,7 +14,7 @@ Salesforceの数式の使い方をできる限りわかりやすく説明しま�
 ### 参照できないデータ型
 ロングテキストエリア、暗号化、および [説明] 項目は、参照・使用できません。
 
-参考情報[https://help.salesforce.com/s/articleView?id=sf.formula_field_limits.htm&type=5]
+[参考情報](https://help.salesforce.com/s/articleView?id=sf.formula_field_limits.htm&type=5)
 
 <br>
 <br>
